@@ -38,3 +38,15 @@ rustdoc --version
 # -> rustdoc 1.63.0
 ```
 
+
+## 多倍長計算用のモジュールのインストール
+
+
+```bash
+# gccとかmakeとか諸々インストール
+sudo apt install build-essential
+
+sudo apt install m4 m4-doc
+
+
+```
