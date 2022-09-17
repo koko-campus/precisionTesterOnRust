@@ -8,3 +8,5 @@ edition = "2021"
 [dependencies]
 f128 = "0.2.9"
 rug = "1.17"
+num="0.1.27"
+num-complex = "0.3.1"
